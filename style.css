@@ -1,0 +1,44 @@
+body{
+	color: black;
+	background-color: lightgrey;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;;
+}
+
+
+.center {
+	margin: 0 auto;
+}
+
+div {
+	display: inline-block;
+	padding-left: 50px;
+}
+
+button {
+	display: block;
+}
+
+img {
+	display: block;
+}
+
+
+
+.london {
+	display: none;
+}
+
+.moscow{
+	display: none;
+}
+
+.kiev{
+	display: none;
+}
